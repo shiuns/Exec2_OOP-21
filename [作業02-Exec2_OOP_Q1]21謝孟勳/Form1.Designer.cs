@@ -38,6 +38,7 @@
             this.textBox1.Size = new System.Drawing.Size(206, 25);
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "老師不好意思 此題還在思考中";
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // Form1
             // 

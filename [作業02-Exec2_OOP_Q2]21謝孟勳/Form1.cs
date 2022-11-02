@@ -21,5 +21,10 @@ namespace _作業02_Exec2_OOP_Q2_21謝孟勳
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //老師不好意思 此題還在思考中
+        }
     }
 }
